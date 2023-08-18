@@ -1,0 +1,6 @@
+.idea
+log
+templates
+uwsgi.log
+uwsgi.ini
+uwsgi.pid
